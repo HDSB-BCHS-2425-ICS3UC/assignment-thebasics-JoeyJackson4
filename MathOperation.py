@@ -1,19 +1,19 @@
 import math
-"""
-print(2*3)
+
+print("this is multiplacation", 2*3)
 #multiplacation
-print(5/2)
+print("this is division", 5/2)
 #divison
-print(2+3)
+print("this is addition", 2+3)
 #additon
-print(2-3)
+print("this is subtraction", 2-3)
 #subtraction
-print(7%4)
+print("this is remainer", 7%4)
 #remainer
-print(2**3)
+print("this is to the power of", 2**3)
 #to the power of
 
-print(math.sqrt(9))
+print("this is the square root",math.sqrt(9))
 #square root
 
 expontent = 2**4
@@ -29,8 +29,3 @@ rem_2 = 24%5
 rem_3 = 24%7
 
 print(square)
-"""
-
-
-r = int(3/4)
-print(r)
