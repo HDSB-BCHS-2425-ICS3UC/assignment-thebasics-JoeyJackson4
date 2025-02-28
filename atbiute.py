@@ -1,11 +1,17 @@
+#Joey
+#Feb 28th, 2025
 import math
-import MathOperation
 
 
 a = int(input("enter a then press enter: "))
 b = int(input("enter b then press enter: "))
 c = int(input("enter c then press enter: "))
+#this is to get the user input for finding the discrimant
 
-delta = b**2 - 4*a*c
+delta = b**2 
+alpha = 4*a*c
+beta = delta - alpha
+#this is the calutaltion for finding the discrimiant
+print(beta)
 
-print(delta)
+#I am bad at spelling
