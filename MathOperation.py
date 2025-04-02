@@ -15,7 +15,7 @@ print("this is to the power of", 2**3)
 
 print("this is the square root",math.sqrt(9))
 #square root
-
+"""
 expontent = 2**4
 square = math.sqrt(25)
 sum_add = 2+23
@@ -27,5 +27,4 @@ quotient2 = 25/8
 rem_1 = 24%6
 rem_2 = 24%5
 rem_3 = 24%7
-
-print(square)
+"""
